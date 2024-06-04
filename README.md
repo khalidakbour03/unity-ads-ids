@@ -1,2 +1,0 @@
-# unity-ads-ids
-api
